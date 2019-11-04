@@ -5,6 +5,8 @@
 This is linux driver for Alienware Advanced Gaming Mouse AW558.
 Allows to change LED colors and change patterns on mouse.
 
+Warning! This is a draft!
+
 ## Requrements
 
 * ruby 1.9.x, 2.x.x
